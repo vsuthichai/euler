@@ -8,7 +8,9 @@ class Euler8
       //sc = new Scanner(System.in);
       int[] array = new int[1000];
       for (int i = 0; i < 1000; i++) {
-        array[i] = Character.digit((char) System.in.read(), 10);
+        int o = (char) System.in.read() - '0';
+        array[i] = o;
+        //array[i] = Character.digit((char) System.in.read(), 10);
         //System.out.print(array[i]);
       }
       int highestProd = 0;
