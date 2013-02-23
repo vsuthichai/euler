@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def divisors(n):
   if n == 1:
@@ -45,7 +46,7 @@ amicable = {}
 
 def main(argv=None):
   s = set()
-  for i in xrange(1, 10001):
+  for i in xrange(2, 10001):
     sum_i = sum(divisors(i))
     if sum(divisors(sum_i)) == i:
       if i == sum_i:
