@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 number = 600851475143
 

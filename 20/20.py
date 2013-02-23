@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def factorial(n):
   num = 1
@@ -12,4 +13,5 @@ def main(argv=None):
     count = count + int(i)
   print count
 
-main()
+if __name__ == '__main__'
+	main()

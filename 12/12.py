@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def factors(num):
   if num == 1:

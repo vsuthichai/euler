@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 F = []
 F.append(1)
