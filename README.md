@@ -1,7 +1,7 @@
 euler
 =====
 
-Project Euler solutions.
+Project Euler solutions continually updated as they are solved.
 
 Languages used for the various problems Python, C/C++, Java
 
