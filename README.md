@@ -1,4 +1,4 @@
-euler
+Project Euler
 =====
 
 Project Euler solutions continually updated as they are solved.
